@@ -1,9 +1,0 @@
-# Groupe 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-# Groupe 2
-User-agent: *
-Allow: /
-
-Sitemap: https://dehaut-dev.github.io/p4_dehaut_sebastien/sitemap.xml
